@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John Doe",
+    "action": "Signed up",
+    "status": "Completed",
+    "timestamp": "9:41 AM"
+  },
+  {
+    "name": "Digital Partner",
+    "action": "Applied for partner program",
+    "status": "Pending",
+    "timestamp": "9:41 AM"
+  },
+  {
+    "name": "John Doe",
+    "action": "Upgraded from Starter to Pro plan",
+    "status": "Completed",
+    "timestamp": "9:41 AM"
+  },
+  {
+    "name": "John Doe",
+    "action": "Raised a support ticket",
+    "status": "Support",
+    "timestamp": "9:41 AM"
+  }
+]

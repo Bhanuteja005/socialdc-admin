@@ -1,0 +1,16 @@
+[
+  {
+    "name": "John Doe",
+    "customerId": "9647273791",
+    "currentPlan": "Basic",
+    "suggestedPlan": "Pro",
+    "potentialValue": "3,500"
+  },
+  {
+    "name": "John Doe",
+    "customerId": "9647273791",
+    "currentPlan": "Pro",
+    "suggestedPlan": "Elite",
+    "potentialValue": "10,000"
+  }
+]

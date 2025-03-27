@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "phone": "7457487734",
+    "role": "Admin",
+    "department": "Management",
+    "status": "Active",
+    "progress": 92
+  },
+  {
+    "name": "Rohit Suresh",
+    "phone": "8607085729",
+    "role": "Support",
+    "department": "Customer Service",
+    "status": "Active",
+    "progress": 96
+  },
+  {
+    "name": "Sharda Pandita",
+    "phone": "8188737926",
+    "role": "Sales",
+    "department": "Marketing",
+    "status": "Active",
+    "progress": 88
+  },
+  {
+    "name": "Rusham Hec",
+    "phone": "6957345955",
+    "role": "Manager",
+    "department": "Sales",
+    "status": "On Leave",
+    "progress": 67
+  },
+  {
+    "name": "Harpreet Modi",
+    "phone": "9516820103",
+    "role": "Support",
+    "department": "Marketing",
+    "status": "Offline",
+    "progress": 89
+  }
+]
